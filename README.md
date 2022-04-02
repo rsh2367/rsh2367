@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rsh2367
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning JS
